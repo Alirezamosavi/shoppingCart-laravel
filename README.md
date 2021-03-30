@@ -1,6 +1,10 @@
 # shoppingCart-laravel
 
+Shopping Cart in Laravel
 
+Video link
+https://youtu.be/9NU8-Yh2hyA
+                                      
                                       How to make a ShoppingCart in Laravel
 									  
 									      in first subscribe me . Please
